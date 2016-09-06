@@ -8,6 +8,6 @@ Features: - autocomplete
 
 This configuration is based on: https://realpython.com/blog/python/vim-and-python-a-match-made-in-heaven/
 
-![Alt text](https://github.com/abkoesdw/vim/vim_ss.jpg?raw=true "screenshot")
+![Alt text](https://github.com/abkoesdw/vim/blob/master/vim_ss.png?raw=true "screenshot")
 
 
