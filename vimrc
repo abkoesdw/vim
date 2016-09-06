@@ -98,3 +98,7 @@ colorscheme zenburn
 " activate powerline
 set laststatus=2
 set t_Co=256
+
+" run python and python3 using F5 and F6 respectively
+nnoremap <buffer> <F5> :exec '!python' shellescape(@%, 1)<cr>
+nnoremap <buffer> <F6> :exec '!python3' shellescape(@%, 1)<cr>
