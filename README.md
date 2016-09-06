@@ -10,6 +10,6 @@ This configuration is based on: https://realpython.com/blog/python/vim-and-pytho
 
 The following is the screenshot:
 <p align="center">
-  <img src=https://raw.githubusercontent.com/abkoesdw/vim/master/vim_ss.png?raw=true" alt="vim ss"/>
+  <img src=https://github.com/abkoesdw/vim/blob/master/vim_ss.png?raw=true" alt="vim ss"/>
 </p>
 
