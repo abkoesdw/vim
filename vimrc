@@ -99,6 +99,9 @@ colorscheme zenburn
 set laststatus=2
 set t_Co=256
 
+" set bracket colors
+hi MatchParen cterm=bold ctermbg=none ctermfg=yellow
+
 " run python and python3 using F5 and F6 respectively
 nnoremap <buffer> <F5> :w<CR> :execute '!python' shellescape(@%, 1)<cr>
 nnoremap <buffer> <F6> :w<CR> :execute '!python3' shellescape(@%, 1)<cr>
