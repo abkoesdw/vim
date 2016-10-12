@@ -98,7 +98,8 @@ colorscheme zenburn
 " activate powerline
 set laststatus=2
 set t_Co=256
-
+" add backspace
+set backspace=indent,eol,start
 " set bracket colors
 hi MatchParen cterm=bold ctermbg=none ctermfg=yellow
 
